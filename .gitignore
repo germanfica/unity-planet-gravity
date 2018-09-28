@@ -9,6 +9,7 @@ Assets/AssetStoreTools*
 ProjectSettings*
 
 # VSCode
+.vscode*
 Assets/VSCode*
 
 # desktop.ini

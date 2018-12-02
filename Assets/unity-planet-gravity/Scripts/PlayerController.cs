@@ -1,3 +1,8 @@
+﻿/*******************************************************************************************
+* Author: German L.G Fica
+* Websites: http://germanfica.xyz
+* Description: Basic character controller to walk around a planet.
+*******************************************************************************************/
 using UnityEngine;
 using System.Collections;
 

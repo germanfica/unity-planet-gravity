@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*******************************************************************************************
+* Author: German L.G Fica
+* Websites: http://germanfica.xyz
+* Description: Basic gravity attractor.
+*******************************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

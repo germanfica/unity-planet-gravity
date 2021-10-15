@@ -31,7 +31,7 @@ git clone https://github.com/germanfica/unity-planet-gravity.git
 Drag and drop the Attractor.cs script into the game object to give it gravity.
 
 ## Credits
-- [German Fica](https://www.instagram.com/germanfica/)
+- [German Fica](https://germanfica.com/)
 
 ## External tools
 None.
